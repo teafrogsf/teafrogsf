@@ -1,4 +1,10 @@
-## Hi there 👋
+## Thank you for coming here 👋
+
+I'm Yuhan Cao, a researcher and creator.
+
+Please refer to [my personal website](https://teafrogsf.github.io)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teafrogsf)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **teafrogsf/teafrogsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
