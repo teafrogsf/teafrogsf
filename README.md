@@ -1,6 +1,6 @@
 ## Thank you for coming here 👋
 
-I'm Yuhan Cao, a researcher and creator. I love anthropology, non-fiction writing, music, and computer science.
+I'm Yuhan Cao, a researcher and creator. I love anthropology, non-fiction writing, education, music, and computer science.
 
 Please refer to [my personal website](https://teafrogsf.github.io).
 
