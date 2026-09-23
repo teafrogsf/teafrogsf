@@ -4,9 +4,9 @@ I'm Yuhan Cao, a researcher and creator. I love anthropology, non-fiction writin
 
 Please refer to [my personal website](https://teafrogsf.github.io).
 
-P.S. My avatar is from [this VOCALOID song](https://www.youtube.com/watch?v=spyJE-qKYu8).
-
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=teafrogsf)](https://github.com/stats-organization/github-stats-extended)
+
+P.S. My avatar is from [this VOCALOID song](https://www.youtube.com/watch?v=spyJE-qKYu8).
 
 <!--
 **teafrogsf/teafrogsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
